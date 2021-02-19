@@ -1,0 +1,27 @@
+body{
+    margin: 100px;
+}   
+.from_control{
+    margin-top: 50px;
+    box-shadow: 5px 5px 10px lightgrey;
+   padding: 50px;  
+   border-radius: 10px;
+}
+#transation_area{
+    display: none;
+}
+.diposite{
+    background-color: slateblue;
+}
+.withdrow{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.same{
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+    color:white
+}
